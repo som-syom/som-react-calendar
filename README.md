@@ -13,8 +13,12 @@
 
 ## preview
 
-- week view
+### week view
+
+
 ![image](https://user-images.githubusercontent.com/60869490/145761860-9d1c183f-42c4-4057-b033-0eb348f60403.png)
 
-- month view
+### month view
+
+
 ![image](https://user-images.githubusercontent.com/60869490/145761934-4fffafc4-ee23-4351-b214-56afb2f19e67.png)
